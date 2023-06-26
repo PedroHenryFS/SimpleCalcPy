@@ -15,7 +15,7 @@ Este é um aplicativo de calculadora simples desenvolvido em Python, projetado p
   Windows 10
   
 # Como Executar o Aplicativo
-  1. Faça o download do aplicativo SsimpleCalcPy
+  1. Faça o download do aplicativo SimpleCalcPy https://drive.google.com/file/d/19LEqisCOnhl77a0iPfj_g_DXfPbsVVTH/view?usp=drive_link
   2. Execute o aplicativo com dois cliques.
 
 # Instruções de Uso
