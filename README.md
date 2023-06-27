@@ -3,13 +3,13 @@
 Este é um aplicativo de calculadora simples desenvolvido em Python, projetado para ser executado no sistema operacional Windows. Ele permite que os usuários realizem operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
 # Funcionalidades:
-  + Adição: Soma dois números.
-  - Subtração: Subtrai um número de outro.
-  * Multiplicação: Multiplica dois números.
-  / Divisão: Divide um número por outro.
-  C Limpar: Limpa o campo de entrada.
-  D apaga o último digito
-  ^ Exponenciação: definir expoente
+  - (+) Adição: Soma dois números.
+  - (-) Subtração: Subtrai um número de outro.
+  - (*) Multiplicação: Multiplica dois números.
+  - (/) Divisão: Divide um número por outro.
+  - (C) Limpar: Limpa o campo de entrada.
+  - (D) apaga o último digito
+  - (^) Exponenciação: definir expoente
   
 # Requisitos do Sistema
   Windows 10
