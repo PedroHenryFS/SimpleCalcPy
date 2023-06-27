@@ -1,6 +1,6 @@
 # SimpleCalcPy 1.0
 
-Este é um aplicativo de calculadora simples desenvolvido em Python, projetado para ser executado no sistema operacional Windows. Ele permite que os usuários realizem operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+Este é um aplicativo de calculadora simples desenvolvido em Python, projetado para ser executado no sistema operacional Windows. Ele permite que os usuários realizem operações matemáticas básicas, como adição, subtração, multiplicação, divisão e exponenciação.
 
 # Funcionalidades:
   - (+) Adição: Soma dois números.
